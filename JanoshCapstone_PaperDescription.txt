@@ -1,0 +1,23 @@
+Capstone Project Report
+Amber Janosh
+Spring 2022
+
+Where the idea came from
+What went well
+what didn't
+Overall Summary
+Future Endeavors
+
+
+
+As a woman with PCOS(Polycystic Ovarian Syndrome), I find it difficult to keep track of my period easily because there isn't a reasonable range of dates in which it could occur, unlike woman with normal periods. There are mobile applications that you can download that help estimate and track your period and they might even provide some other features as well, but when I started using the one that I first downloaded, I had noticed that the estimation was generally okay only if the application assumed that the woman is regular. This made me want to start researching if there was any way to help estimate a woman's period if she is suffering with PCOS, which the research still needs to be done, but that lead onto other ideas about how to create a program, and possibly a website to go along with it, that would estimate women's periods based on certain personal and health factors. 
+I now wanted to create this program to include personalized period tracking, recipe recommendations based on health, preferences, cravings, all the the user could choose. I also thought about possibly incorporating journaling, usually would be used for any health concerns to possibly bring up to their doctor but it could also be used as actual journaling as well. This idea brought on another, what if each user could have a profile and could comment on open posts that user user's post. Though I may not get that far into the program, I would like to and I think it'd be a wonderful idea nonetheless. 
+So mainly, I want to create a program that can track periods and give out recommended recipes, and have a journaling option as well. 	
+
+I have kept a time log with notes along side each description tracking what went well and what went bad, and also how I had to make cuts to the project itself.
+
+Overall I did enjoy working on this project, though some things were cut. I realised that it would really be fun being apart of a project that is not only helpful to others but also allows me to express my creativity on the front-end of things too. 
+Looking forward I know time management and realistic expectations are what either make or break a project, this was definitely a main lesson learned on this capstone. Another note about time management is that one project may seem fine and you can plan accordingly, but when there are multiple projects (classes), you have to deligate your time wisely. 
+
+This project was a wonderful opportunity to see the successes and accept the flaws of working on projects and all of their facets, learning about my own capability, and also a humbling experience about how to keep positive and keep the flow when even if the project may not be going as planned.
+--------------------------------------------------------------------------------------

@@ -1,0 +1,19 @@
+Don't worry about what anybody else is going to do. The best way to predict the future is to invent it. -- Alan Kay:
+
+Premature optimization is the root of all evil (or at least most of it) in programming.-- Donald Knuth:
+
+Keep away from people who try to belittle your ambitions. Small people always do that, but the really great make you feel that you, too, can become great.-- Mark Twain:
+
+To follow the path; look to the master, follow the master, walk with the master, see through the master, become the master.-- Modern zen Poem:
+
+No problem should ever have to be solved twice.-- Eric S. Raymond, How to become a hacker:
+
+Attitude is no substitute for competence. -- Eric S. Raymond, How to become a hacker:
+
+It is said that the real winner is the one who lives in today but able to see tomorrow. -- Juan Meng, Reviewing "The future of ideas" by Lawrence Lessig:
+
+Fools ignore complexity. Pragmatists suffer it. Some can avoid it. Geniuses remove it.-- Alan J. Perlis (Epigrams in programming):
+
+A year spent in artificial intelligence is enough to make one believe in God.-- Alan J. Perlis (Epigrams in programming):
+
+Within a computer natural language is unnatural.-- Alan J. Perlis (Epigrams in programming):

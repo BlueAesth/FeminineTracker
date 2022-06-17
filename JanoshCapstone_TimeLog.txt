@@ -1,0 +1,81 @@
+Amber Janosh's Time Log for Capstone Project
+
+
+1/25/2022 10:00am Start 
+Writting down informaiton for the application
+	Researching PCOS period estimation
+		No data/no research has been done on PCOS and timing/length of periods.
+Researching how ot create calanders in Java
+11:20am Finish (Total 1hrs20mins)
+/*This is when I had to forfeit my idea on creating a period app that was specific for women with PCOS.*/
+
+1/29/2022 10:00pm Start 
+Trying to set up Netbeans and Scene Builder, JavaFX and SDKs, setting enviroment variables
+	Not sure if set up is valid.
+10:40pm Finish (Total 40mins)
+/*I ended up having to switch and jump around to different IDE's before settling on IntelliJ.*/
+
+2/1/2022 10:30am Start
+Breaking down what components I want in the program.
+Continuing on to researching how to use calendar class in java.
+Setting up netbeans to test calendar code example. 
+1:00pm Finish (Total 2.5hrs)
+/*I wasn't able to get Netbeans to set up and run properly with using JavaFXML*/
+
+2/10/2022 3:30pm Start
+Netbeans failed again for java with ant/javafx. 
+	Trying out Front-End based java application instead.
+		Failed to run java with maven
+Trying intelliJ and testing was successful.
+	Will be using IntelliJ IDEA for my application's IDE.	
+Created simple java application.
+	Added Background and username/password labels and text inputs.
+	Added  minor password check (NOT secure) 
+6:50 Finish (Total 3hrs20mins)
+/*This should have been the first "installment" that you were able to see via our Zoom meeting. This was definitely a break-through after trying so hard to find the right fit of an IDE for the application.*/
+
+2/27/2022 2:00pm Start
+Creating Login Logic
+	Not working.
+3:30pm Finish (Total 1.5hrs)
+/*I was trying to use a hash table, but I couldn't get it to work within the time frame I had versus what else I wanted to get done with the application.*/
+
+3/24/2022 10:00am Start
+Switched/started new project. 
+	Implemented pop-up and calendar.
+12:00pm Finish (Total 2hrs)
+/*The project I had started with begun to get really messy and stopped compiling, so I decided to save some files and then create a new project with new directories. When I got that working, I added a pop-up feature with the login screen and the calandar screen.*/
+
+4/03/2022 10:00am Start
+Continuing implementation/integration of login pop-up and calandar main scene.
+	Simple Login Logic works and displays calendar.
+Simplified code and worked on the css too.
+4:00pm Finish (Total 5hrs //-1hr lunch)
+/*This was when I decided that I had to let go of making a cooking/recipe feature for the application. I didn't realise that making the calandar was going to take that long, but there were a lot of things to consider with calandar logic that I overestimated. Nevermind that it took so long to get "up and running" with just starting and setting up the tools I needed foe the application.*/
+
+4/17/2022 Start 11:00am
+Found icon for period marking
+	Researching how to add image to node.
+12:00pm Break
+2:45pm Starting again
+Added coloring fill when clicking on a calandar day. Red for current period.
+4:15pm Finish (Total 2.5hrs)
+/*It took awhile to research into how to get an image to show on a node, I wasn't able to get this to work, unfortunately, but I am glad that I am still able to mark the days by visual indication of the color change.*/
+
+4/24/2022 10:30am Start
+Modified period checking
+	Grey coloring on previous period dates.
+Changed password textfeild to passwordfeild
+Looking into randomly selecting quotes from a text file to be displayed as a m.o.d.
+M.O.D Works and is displayed randomly at the bottom of the app.
+3:30pm Finish (Total 5.5hrs)
+/*The message of the day (m.o.d) took a bit to figure out but once it was done I was relieved. I was happy to be able to add one "extra" feature that I had wanted into the application since I had to cut a few of the other, bigger features later on.*/
+
+4/26/2022 3:00pm Start
+Sprucing up time log.
+Looking through application to make any last changes.
+	Worked with quotes, figuring out how to size the textfeild, textarea.
+5:20pm Finish (Total 2hr 20mins)
+/*Switched using different javaFX Controls, ended up just using Text, but limiting the quotes to one-liners.*/
+
+26 hours 40 minutes; Grand Total

@@ -1,0 +1,4 @@
+ .bodybg{
+ -fx-background-image: url('Blood_icon.webp');
+ -fx-background-size: 100% 100%;
+}
